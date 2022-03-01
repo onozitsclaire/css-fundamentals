@@ -3,10 +3,10 @@
   font-size: 40px;
 }
 
-#h1 {
+#title {
   color: blue;
 }
 
-.p {
-  color: gray;
+.container p {
+  color: purple;
 }
